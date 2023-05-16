@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-mysql-org/go-mysql/mysql"
-	"github.com/go-mysql-org/go-mysql/schema"
+	"github.com/guihouchang/go-mysql/mysql"
+	"github.com/guihouchang/go-mysql/schema"
 	"github.com/pingcap/errors"
 	"github.com/shopspring/decimal"
 )
